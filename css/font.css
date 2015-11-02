@@ -1,0 +1,17 @@
+
+@font-face {
+font-family: MyCustomFont;
+src: url('../fonts/Franklin_Gothic_Book_Regular.eot') /* EOT file for IE */
+}
+@font-face {
+font-family: MyCustomFont;
+src: url('../fonts/Franklin_Gothic_Book_Regular.ttf') /* TTF file for CSS3 browsers */
+}
+@font-face {
+font-family: reverenormal;
+src: url('../fonts/Revere_Normal.eot') /* EOT file for IE */
+}
+@font-face {
+font-family: reverenormal;
+src: url('../fonts/Revere_Normal.ttf') /* TTF file for CSS3 browsers */
+}
